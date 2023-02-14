@@ -1,0 +1,23 @@
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    color: #f9faf8;
+    font-size: 24px;
+    padding: 8px
+}
+
+.links-top {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    font-size: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #f9faf8;
+}
