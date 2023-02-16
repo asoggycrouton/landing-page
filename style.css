@@ -44,6 +44,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 10px;
 }
 
 .hero-button {
@@ -96,13 +97,14 @@ p {
 
 .above-footer-p2 {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
+    margin-right: 50px;
 }
 
 .above-footer-p1 p {
     font-style: italic;
-    margin-top:100px;
-    color:#1F2937;
+    margin-top: 100px;
+    color: #1F2937;
     display: flex;
     align-items: center;
     justify-content: center;
