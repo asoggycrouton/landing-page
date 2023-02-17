@@ -14,7 +14,6 @@
     padding: 0;
     gap: 16px;
     font-size: 20px;
-
 }
 
 a {
@@ -136,4 +135,12 @@ p {
     border-radius: 10px;
     border-color: #F9FAF8;
     justify-content: center;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
