@@ -7,6 +7,10 @@
     padding: 10px;
 }
 
+body {
+    margin: 0px;
+}
+
 .links-top {
     list-style-type: none;
     display: flex;
